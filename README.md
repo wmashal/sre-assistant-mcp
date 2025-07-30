@@ -198,6 +198,8 @@ docker run -d \
 - "Find traces with errors in the last 30 minutes"
 - "Show me the slowest traces over 5 seconds"
 - "Get details for trace ID abc123..."
+- "What the duration for the trace 99bbdc0b0e6d6285f799717516e590f1"
+- "what the longest span ? and what the tags and any errors in the process section ?"
 
 ### 🌐 Service Dependencies
 - "Analyze service dependencies for 'user-service'"
